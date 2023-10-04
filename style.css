@@ -1,0 +1,27 @@
+#header {
+  background-color: #638179;
+  color:white;
+  font-size: 13px;
+}
+
+#navbar {
+  background-color: rgb(56, 89, 77);
+  color:white;
+  font-size: 14px;
+}
+
+.left_location {
+  width: 300px;
+  padding-top: 20px;
+}
+
+#fourimagesbackground {
+  background-color: #2B4264;
+  height: 1000px;
+  padding: 40px 15px 35px 15px;
+}
+
+#fourimages {
+  border-radius: 50%;
+  border: 6px solid white;
+}
